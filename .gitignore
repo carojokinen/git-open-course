@@ -1,0 +1,9 @@
+# Ohje
+## *.o :
+## Suodattaa pois kaikki polut, jotka p‰‰ttyv‰t merkkijonon '.o'
+
+
+# Pois suodatettavat tiedostop‰‰tteet:
+*.in
+*.out
+*.pyc
